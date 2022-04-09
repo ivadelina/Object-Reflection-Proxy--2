@@ -1,6 +1,6 @@
 /* eslint-disable linebreak-style */
 /* eslint-disable import/extensions */
-import { destruct } from './app.js';
+import destruct from './app.js';
 
 
 test('show a table', () => {
